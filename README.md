@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hakimie!
 
-<!--
-**mnhakimie-mys/mnhakimie-mys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Automotive Design Engineer turned aspiring **AI/ML Developer** based in Malaysia 🇲🇾.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 My Skills
+- Python, Pandas, NumPy
+- Scikit-learn
+- SQL, Hadoop (basic)
+- Data Engineering Associate certified (Fusionex)
+
+---
+
+## 🚀 My ML Projects
+
+| Project | Description |
+|--------|-------------|
+| [Car Price Prediction](https://github.com/mnhakimie-mys/ml-portfolio/tree/main/Car-Price-Prediction) | Predicts car prices using specs and ML |
+| More coming soon... 🚧 |
+
+---
+
+## 🌱 I’m currently learning
+- Deep Learning with TensorFlow & PyTorch
+- Building and deploying AI apps with Streamlit and Flask
+
+<p align="center">
+  <a href="mailto:mnhakimie87@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/mnhakimie/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
