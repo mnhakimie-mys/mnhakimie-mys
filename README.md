@@ -4,7 +4,7 @@ I'm a Automotive Design Engineer turned aspiring **AI/ML Developer** based in Ma
 
 ---
 
-## 🧠 My Skills
+## My Skills
 - Python, Pandas, NumPy
 - Scikit-learn
 - SQL, Hadoop (basic)
@@ -12,7 +12,7 @@ I'm a Automotive Design Engineer turned aspiring **AI/ML Developer** based in Ma
 
 ---
 
-## 🚀 My ML Projects
+## My ML Projects
 
 | Project | Description |
 |--------|-------------|
@@ -20,10 +20,6 @@ I'm a Automotive Design Engineer turned aspiring **AI/ML Developer** based in Ma
 | More coming soon... 🚧 |
 
 ---
-
-## 🌱 I’m currently learning
-- Deep Learning with TensorFlow & PyTorch
-- Building and deploying AI apps with Streamlit and Flask
 
 <p align="center">
   <a href="mailto:mnhakimie87@gmail.com">
