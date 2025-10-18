@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Hakimie!
 
-I'm a Automotive Design Engineer turned aspiring **AI/ML Developer** based in Malaysia 🇲🇾.  
+I'm an **Automotive Design Engineer** turned **AI & Machine Learning enthusiast** based in Malaysia 🇲🇾.
 
 ---
 
 ## My Skills
-- Python, Pandas, NumPy
-- Scikit-learn
-- SQL, Hadoop (basic)
+- Python, Pandas, NumPy  
+- Scikit-learn, LangChain, Streamlit  
+- SQL, Hadoop (basic)  
 - Data Engineering Associate certified (Fusionex)
 
 ---
@@ -16,8 +16,9 @@ I'm a Automotive Design Engineer turned aspiring **AI/ML Developer** based in Ma
 
 | Project | Description |
 |--------|-------------|
+| [HR Assistant Chatbox](https://github.com/mnhakimie-mys/RAG-Project/tree/main/HR%20Assistant) | Local RAG app that answers HR document questions |
 | [Car Price Prediction](https://github.com/mnhakimie-mys/ml-portfolio/tree/main/Car-Price-Prediction) | Predicts car prices using specs and ML |
-| More coming soon... 🚧 |
+| More coming soon... |
 
 ---
 
